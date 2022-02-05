@@ -69,23 +69,260 @@ You are welcome (and encouraged) to meet with me beforehand to talk about the es
 
 **Note**: Your notes for the presentation can function as your journal for that week, and the essay due on Lec #12 can be handed in later by the presenter for that day.
 
-| LEC # | READINGS |
-| --- | --- |
-| 4 |  {{< br >}}{{< br >}} _Paradise Lost_, book II {{< br >}}{{< br >}} Lewis, Preface to _Paradise Lost_ {{< br >}}{{< br >}}  |
-| 5 | Lewis, _Perelandra_, chapters 1-8 |
-| 6 |  {{< br >}}{{< br >}} _Paradise Lost_, book III {{< br >}}{{< br >}} Empson, "Heaven" {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Lewis, _Perelandra_, chapters 9-16 {{< br >}}{{< br >}} Quiz {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} _Paradise Lost_, book IV {{< br >}}{{< br >}} Nyquist, "Gynesis, Genesis, Exegesis," parts i-iv {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} _Paradise Lost_, book IV (cont.) {{< br >}}{{< br >}} Nyquist, parts v-vii {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} _Paradise Lost_, book V {{< br >}}{{< br >}} Fish, "The Milk of the Pure Word" {{< br >}}{{< br >}}  |
-| 11 | Pullman, _Golden Compass_ |
-| 12 |  {{< br >}}{{< br >}} _Paradise Lost_, book VI {{< br >}}{{< br >}} Kerrigan, "'One First Matter All': Spirit as Energy" {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} Pullman, _Golden Compass_ (cont.) {{< br >}}{{< br >}} Lewalski, "_Paradise Lost_ and Milton's Politics" {{< br >}}{{< br >}}  |
-| 14 |  {{< br >}}{{< br >}} _Paradise Lost_, book VII {{< br >}}{{< br >}} Rumrich, "Uninventing Milton" {{< br >}}{{< br >}} ———, "Radical Heterodoxy and Heresy" {{< br >}}{{< br >}}  |
-| 15 |  {{< br >}}{{< br >}} _Paradise Lost_, book VIII {{< br >}}{{< br >}} Gross, "Satan and Romantic Satan" {{< br >}}{{< br >}}  |
-| 16 |  {{< br >}}{{< br >}} _Paradise Lost_, book IX {{< br >}}{{< br >}} Flesch, "The Majesty of Darkness" {{< br >}}{{< br >}}  |
-| 17 | Pullman, _Subtle Knife_ |
-| 18 |  {{< br >}}{{< br >}} _Paradise Lost_, book X {{< br >}}{{< br >}} Parker, "Eve, Evening, and the Labor of Reading" in _Paradise Lost_ {{< br >}}{{< br >}}  |
-| 19 | Pullman, _Subtle Knife_ (cont.) |
-| 21 |  {{< br >}}{{< br >}} _Paradise Lost_, book XI {{< br >}}{{< br >}} Grossman, "Milton's Dialectical Vision" {{< br >}}{{< br >}}  |
-| 22 | Pullman, _Amber Spyglass_
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book II
+
+Lewis, Preface to _Paradise Lost_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis, _Perelandra_, chapters 1-8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book III
+
+Empson, "Heaven"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lewis, _Perelandra_, chapters 9-16
+
+Quiz
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book IV
+
+Nyquist, "Gynesis, Genesis, Exegesis," parts i-iv
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book IV (cont.)
+
+Nyquist, parts v-vii
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book V
+
+Fish, "The Milk of the Pure Word"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman, _Golden Compass_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book VI
+
+Kerrigan, "'One First Matter All': Spirit as Energy"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pullman, _Golden Compass_ (cont.)
+
+Lewalski, "_Paradise Lost_ and Milton's Politics"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book VII
+
+Rumrich, "Uninventing Milton"
+
+———, "Radical Heterodoxy and Heresy"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book VIII
+
+Gross, "Satan and Romantic Satan"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book IX
+
+Flesch, "The Majesty of Darkness"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman, _Subtle Knife_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book X
+
+Parker, "Eve, Evening, and the Labor of Reading" in _Paradise Lost_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman, _Subtle Knife_ (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book XI
+
+Grossman, "Milton's Dialectical Vision"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman, _Amber Spyglass_
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

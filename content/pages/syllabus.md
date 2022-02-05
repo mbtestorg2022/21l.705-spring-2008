@@ -46,13 +46,66 @@ The longer essay, due at the end of term and counting for half your final grade,
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Journals | 10% |
-| Report | 10% |
-| Short essay | 20% |
-| Long essay | 50% |
-| Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Journals
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Report
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short essay
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Long essay
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
@@ -61,30 +114,413 @@ Plagiarism
 
 Use of another's intellectual work without acknowledgement is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the Writing and Communication Center, and the [MIT Web site](http://web.mit.edu/writing/index.html) on Plagiarism.
 
-| LEC # | TOPICS | KEY Dates |
-| --- | --- | --- |
-| 1 | Introductions |  |
-| 2 |  {{< br >}}{{< br >}} Milton, _Paradise Lost,_ book I {{< br >}}{{< br >}} _Preface to Paradise Lost_, chapters 9-11 {{< br >}}{{< br >}}  | First journal due |
-| 3 | C. S. Lewis, _The Lion, the Witch, and the Wardrobe_ |  |
-| 4 |  {{< br >}}{{< br >}} _Paradise Lost,_ book II {{< br >}}{{< br >}} Lewis, _Preface to Paradise Lost_ {{< br >}}{{< br >}}  |  |
-| 5 | Lewis, _Perelandra,_ chapters 1-8 |  |
-| 6 |  {{< br >}}{{< br >}} _Paradise Lost,_ book III {{< br >}}{{< br >}} Empson, "Heaven" {{< br >}}{{< br >}}  |  |
-| 7 |  {{< br >}}{{< br >}} Lewis, _Perelandra,_ chapters 9-16 {{< br >}}{{< br >}} Quiz {{< br >}}{{< br >}}  |  |
-| 8 |  {{< br >}}{{< br >}} _Paradise Lost,_ book IV {{< br >}}{{< br >}} Nyquist, parts i-iv {{< br >}}{{< br >}}  |  |
-| 9 |  {{< br >}}{{< br >}} _Paradise Lost_, book IV (cont.) {{< br >}}{{< br >}} Nyquist, parts v-vii {{< br >}}{{< br >}}  |  |
-| 10 |  {{< br >}}{{< br >}} _Paradise Lost_, book V {{< br >}}{{< br >}} Fish, "The Milk of the Pure Word" {{< br >}}{{< br >}}  |  |
-| 11 | Pullman, _Golden Compass_ |  |
-| 12 |  {{< br >}}{{< br >}} _Paradise Lost_, book VI {{< br >}}{{< br >}} Kerrigan, "'One First Matter All': Spirit as Energy" {{< br >}}{{< br >}}  | Short essay (3-5 pages) due |
-| 13 | Pullman, _Golden Compass_(cont.) |  |
-| 14 |  {{< br >}}{{< br >}} _Paradise Lost_, book VII {{< br >}}{{< br >}} Rumrich, "Uninventing Milton," {{< br >}}{{< br >}} ———, "Radical Heterodoxy and Heresy" {{< br >}}{{< br >}}  |  |
-| 15 |  {{< br >}}{{< br >}} _Paradise Lost_, book VIII {{< br >}}{{< br >}} Gross, "Satan and Romantic Satan" {{< br >}}{{< br >}}  |  |
-| 16 |  {{< br >}}{{< br >}} _Paradise Lost_, book IX {{< br >}}{{< br >}} Flesch, "The Majesty of Darkness" {{< br >}}{{< br >}}  |  |
-| 17 | Pullman, _Subtle Knife_ | Proposals and bibliographies due |
-| 18 |  {{< br >}}{{< br >}} _Paradise Lost_, book X {{< br >}}{{< br >}} Parker, "Eve, Evening, and the Labor of Reading" in _Paradise Lost_ {{< br >}}{{< br >}}  |  |
-| 19 | Pullman, _Subtle Knife_ (cont.) |  |
-| 20 | Pullman, _Amber Spyglass_ | Journals due one day before Lec #20 |
-| 21 |  {{< br >}}{{< br >}} _Paradise Lost_, book XI {{< br >}}{{< br >}} Grossman {{< br >}}{{< br >}}  |  |
-| 22 | Pullman, _Amber Spyglass_ (cont.) |  |
-| 23 |  {{< br >}}{{< br >}} Presentations for the final paper {{< br >}}{{< br >}} No journals {{< br >}}{{< br >}}  | Preliminary drafts due |
-| 24 | Presentations for the final paper (cont.) |  |
-| 25 |  {{< br >}}{{< br >}} _Paradise Lost_, book XII {{< br >}}{{< br >}} No journals {{< br >}}{{< br >}}  | Seminar paper due after two days
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Milton, _Paradise Lost,_ book I
+
+_Preface to Paradise Lost_, chapters 9-11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+First journal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+C. S. Lewis, _The Lion, the Witch, and the Wardrobe_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost,_ book II
+
+Lewis, _Preface to Paradise Lost_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis, _Perelandra,_ chapters 1-8
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost,_ book III
+
+Empson, "Heaven"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lewis, _Perelandra,_ chapters 9-16
+
+Quiz
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost,_ book IV
+
+Nyquist, parts i-iv
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book IV (cont.)
+
+Nyquist, parts v-vii
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book V
+
+Fish, "The Milk of the Pure Word"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman, _Golden Compass_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book VI
+
+Kerrigan, "'One First Matter All': Spirit as Energy"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Short essay (3-5 pages) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman, _Golden Compass_(cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book VII
+
+Rumrich, "Uninventing Milton,"
+
+———, "Radical Heterodoxy and Heresy"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book VIII
+
+Gross, "Satan and Romantic Satan"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book IX
+
+Flesch, "The Majesty of Darkness"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman, _Subtle Knife_
+{{< tdclose >}}
+{{< tdopen >}}
+Proposals and bibliographies due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book X
+
+Parker, "Eve, Evening, and the Labor of Reading" in _Paradise Lost_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman, _Subtle Knife_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman, _Amber Spyglass_
+{{< tdclose >}}
+{{< tdopen >}}
+Journals due one day before Lec #20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book XI
+
+Grossman
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman, _Amber Spyglass_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Presentations for the final paper
+
+No journals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Preliminary drafts due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations for the final paper (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, book XII
+
+No journals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar paper due after two days
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
