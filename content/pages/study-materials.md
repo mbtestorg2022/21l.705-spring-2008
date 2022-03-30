@@ -22,6 +22,6 @@ Genesis 32 — Jacob wrestles with the angel. ([PDF]({{< baseurl >}}/resources/m
 
 Sources for _The Golden Compass_ ([PDF]({{< baseurl >}}/resources/mit21l_705s08_compass))
 
-Early editions: 1667a (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21l_705s08_1667a)), 1668a (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21l_705s08_1668a)), 1668b (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21l_705s08_1668b)), and 1674 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21l_705s08_1674)) — Title pages and front matter for Book I from different years.
+Early editions: 1667a ([PDF]({{< baseurl >}}/resources/mit21l_705s08_1667a)), 1668a ([PDF]({{< baseurl >}}/resources/mit21l_705s08_1668a)), 1668b ([PDF]({{< baseurl >}}/resources/mit21l_705s08_1668b)), and 1674 ([PDF]({{< baseurl >}}/resources/mit21l_705s08_1674)) — Title pages and front matter for Book I from different years.
 
 Class notes on _Paradise Lost_ V. ([PDF]({{< baseurl >}}/resources/mit21l_705s08_pl_v_s08))
